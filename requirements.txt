@@ -1,0 +1,4 @@
+networkx
+matplotlib
+sympy
+git+https://github.com/rvf0068/pyreps
